@@ -10,14 +10,14 @@
 .section{
   
 }
-.header{
-  display: flex;
-
-}
 
 #header {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
     background-color: #f1f1f1;
     padding: 20px;
+    justify-content: space-between;
   }
   
   #header-img {
