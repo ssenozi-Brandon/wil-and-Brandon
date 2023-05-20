@@ -7,9 +7,6 @@
 .container{
   background-color: #eee;
 }
-.section{
-  
-}
 
 #header {
   display: flex;
@@ -64,8 +61,8 @@
   }
   
   @media (max-width: 600px) {
-    /* Add your mobile styles here */
+    
   }
   
-  /* Add your flexbox styles here */
+  
   
