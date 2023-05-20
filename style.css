@@ -1,4 +1,20 @@
 /* Add your CSS styles here */
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container{
+  background-color: #eee;
+}
+.section{
+  
+}
+.header{
+  display: flex;
+
+}
+
 #header {
     background-color: #f1f1f1;
     padding: 20px;
